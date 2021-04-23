@@ -7,6 +7,8 @@ Time series analysis to predict the auction sale price for of heavy equipment to
 
 ## 2. Data
 
+The data is downloaded from the Kaggle Bluebook for Bulldozers competition: https://www.kaggle.com/c/bluebook-for-bulldozers/data
+
 There are 3 main datasets:
 
 * Train.csv is the training set, which contains data through the end of 2011.
