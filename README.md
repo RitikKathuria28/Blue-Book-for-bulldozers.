@@ -22,3 +22,6 @@ The evaluation metric for this competition is the RMSLE (root mean squared log e
 ## 4. Features
 
  Data dictionary is detailing all of the features of the dataset.
+ 
+ 
+ ## Final predictions on Test dataset is stored in test_predictions.csv
